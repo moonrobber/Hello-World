@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  GitTest
+//  git-test
 //
-//  Created by 陈巳伟 on 16/4/25.
+//  Created by 陈巳伟 on 16/4/26.
 //  Copyright © 2016年 Chen-sw. All rights reserved.
 //
 

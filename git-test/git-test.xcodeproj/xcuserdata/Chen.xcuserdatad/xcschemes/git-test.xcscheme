@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "74BB31F51CCE727200EECFA6"
-               BuildableName = "GitTest.app"
-               BlueprintName = "GitTest"
-               ReferencedContainer = "container:GitTest.xcodeproj">
+               BlueprintIdentifier = "74BB32131CCE7E2800EECFA6"
+               BuildableName = "git-test.app"
+               BlueprintName = "git-test"
+               ReferencedContainer = "container:git-test.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "74BB31F51CCE727200EECFA6"
-            BuildableName = "GitTest.app"
-            BlueprintName = "GitTest"
-            ReferencedContainer = "container:GitTest.xcodeproj">
+            BlueprintIdentifier = "74BB32131CCE7E2800EECFA6"
+            BuildableName = "git-test.app"
+            BlueprintName = "git-test"
+            ReferencedContainer = "container:git-test.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "74BB31F51CCE727200EECFA6"
-            BuildableName = "GitTest.app"
-            BlueprintName = "GitTest"
-            ReferencedContainer = "container:GitTest.xcodeproj">
+            BlueprintIdentifier = "74BB32131CCE7E2800EECFA6"
+            BuildableName = "git-test.app"
+            BlueprintName = "git-test"
+            ReferencedContainer = "container:git-test.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "74BB31F51CCE727200EECFA6"
-            BuildableName = "GitTest.app"
-            BlueprintName = "GitTest"
-            ReferencedContainer = "container:GitTest.xcodeproj">
+            BlueprintIdentifier = "74BB32131CCE7E2800EECFA6"
+            BuildableName = "git-test.app"
+            BlueprintName = "git-test"
+            ReferencedContainer = "container:git-test.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
